@@ -16,6 +16,20 @@ Time spent: **   ** hours spent in total
 - [ ] User can post a pet, including photos and videos, and location.
 - [ ] User can browse pets via the map functionality.
 - [ ] User can mark a pet as rescued.
+ 
+
+## Wire-frames
+The login screen
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/login%20screen.tiff' title='The login screen' width='' alt='The login screen' />
+
+The home timeline screen
+<img src='https://github.com/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The details screen
+<img src='https://github.com/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The post screen
+<img src='https://github.com/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Video Walkthrough
 
