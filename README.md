@@ -16,7 +16,7 @@
 - [ ] User can mark a pet as rescued.
  
 
-## Wire-frames
+## Wireframes
 The login screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/login%20screen.tiff' title='The login screen' width='' alt='The login screen' />
 
