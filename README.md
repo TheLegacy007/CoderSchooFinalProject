@@ -27,7 +27,7 @@ The details screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/details%20screen.tiff' title='The details screen' width='' alt='The details screen' />
 
 The post screen
-<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/news%20screen.tiff' title='The post screen' width='' alt='The post screen' />
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/news%20screen.png' title='The post screen' width='' alt='The post screen' />
 
 ## Video Walkthrough
 
