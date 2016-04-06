@@ -18,13 +18,13 @@
 
 ## Wireframes
 The login screen
-<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/login%20screen.tiff' title='The login screen' width='' alt='The login screen' />
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/login%20screen.png' title='The login screen' width='' alt='The login screen' />
 
 The home timeline screen
-<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/home%20screen.tiff' title='The home timeline screen' width='' alt='The home timeline screen' />
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/home%20screen.png' title='The home timeline screen' width='' alt='The home timeline screen' />
 
 The details screen
-<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/details%20screen.tiff' title='The details screen' width='' alt='The details screen' />
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/details%20screen.png' title='The details screen' width='' alt='The details screen' />
 
 The post screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/news%20screen.png' title='The post screen' width='' alt='The post screen' />
