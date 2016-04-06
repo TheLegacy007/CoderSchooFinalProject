@@ -1,4 +1,4 @@
-# Final Project - *Pets++*
+# Group Project - *Pets++*
 
 **Pets++** is a social app connecting online community to provide pets with basic help, such as rescuing, adopting.
 
