@@ -1,19 +1,22 @@
-# Group Project - *Pets++*
+# Group Project - *Purradise*
 
-**Pets++** is a social app connecting online community to provide pets with basic help, such as rescuing, adopting.
+**Purradise** is a social app connecting online community to provide pets with basic help, such as rescuing, adopting.
 
 ## User Stories
 
+The following functionalities are **required**:
 - [ ] User can create a user profile or login with Facebook account.
-- [ ] User can view pets posted chronologically as posted by anyone in a public timeline.
-- [ ] User public timeline should be filtered by user's location within x km radius.
-- [ ] User can filter public timeline by type of animal. 
+- [ ] User can view posts chronologically and are filtered by location.
 - [ ] User can click on a pet record to view pet details.
-- [ ] User can share a pet post on facebook or twitter.
-- [ ] User can view more pictures of the pet within the pet details screen.
-- [ ] User can post a pet, including photos and videos, and location.
+- [ ] User can share a pet post on facebook.
+- [ ] User can create a post including photos, description and location.
+- [ ] User can add filters such as type of animal, animal status, age,...etc.
+
+
+The following features are **optional**:
 - [ ] User can browse pets via the map functionality.
-- [ ] User can mark a pet as rescued.
+- [ ] User can contact other users via chat function.
+
  
 
 ## Wireframes
@@ -23,11 +26,12 @@ The login screen
 The home timeline screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/home%20screen.png' title='The home timeline screen' width='' alt='The home timeline screen' />
 
+The filter screen
+<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/filter%20screen.png' title='The home timeline screen' width='' alt='The filter screen' />
+
 The details screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/details%20screen.png' title='The details screen' width='' alt='The details screen' />
 
-The post screen
-<img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/news%20screen.png' title='The post screen' width='' alt='The post screen' />
 
 ## Video Walkthrough
 
