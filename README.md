@@ -20,16 +20,12 @@ The following features are **optional**:
  
 
 ## Wireframes
-The login screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/login%20screen.png' title='The login screen' width='' alt='The login screen' />
 
-The home timeline screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/home%20screen.png' title='The home timeline screen' width='' alt='The home timeline screen' />
 
-The filter screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/filter%20screen.png' title='The home timeline screen' width='' alt='The filter screen' />
 
-The details screen
 <img src='https://github.com/TheLegacy007/CoderSchooFinalProject/blob/master/details%20screen.png' title='The details screen' width='' alt='The details screen' />
 
 
